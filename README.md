@@ -35,7 +35,6 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -48,9 +47,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse <a name="about-project"></a>
+# 📖 Portfolio-Mobile <a name="about-project"></a>
 
-This is my first project in Microverse!
+This is the very starting of my personal portfolio website in mobile version.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -72,16 +71,14 @@ This is my first project in Microverse!
 ### Key Features <a name="key-features"></a>
 
 
-- Added linters
-- Added style in the heading
+- Added header
+- Added headline section
+- Added contact icons
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Coming soon!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,7 +132,7 @@ Example commands:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- More styles will be added
+- List of my projects will be added
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,7 +151,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project please give a star
+If you like this project please give a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,7 +160,7 @@ If you like this project please give a star
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank my code reviewer Levy Ukwishaka without whom I could not fix the errors
+I would like to thank my mentor, coding partners, morning session and standup teammates for their support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
