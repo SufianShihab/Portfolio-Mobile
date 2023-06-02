@@ -86,7 +86,7 @@ body {
   background-color: var(--white-color);
 }
 
-.main__container {
+.main_container {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -103,7 +103,7 @@ body {
   color: var(--dark-color);
 }
 
-.main .h1__sub {
+.main .h1_sub {
   width: 80%;
   font-style: normal;
   font-weight: 700;
@@ -126,17 +126,17 @@ p,
   color: var(--dark-color);
 }
 
-.span__br2 {
+.span_br2 {
   display: none;
 }
 
-.main__social-media {
+.main_social-media {
   width: 100%;
   display: flex;
   justify-content: center;
 }
 
-.main__social-media ul {
+.main_social-media ul {
   width: 50%;
   max-width: 230px;
   padding-left: 0;
@@ -148,13 +148,13 @@ p,
   list-style: none;
 }
 
-.main__arrow-button {
+.main_arrow-button {
   width: 40px;
   height: 40px;
   margin: 20% auto 5% auto;
   border-radius: 50%;
 }
 
-.main__arrow-button:hover {
+.main_arrow-button:hover {
   box-shadow: var(--button-hover-color) 0 0 0 0;
 }
