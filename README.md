@@ -74,6 +74,8 @@ This is the very starting of my personal portfolio website in mobile version.
 - Added header
 - Added headline section
 - Added contact icons
+- Added list of works
+- Added about me
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,8 +133,8 @@ Example commands:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
 - List of my projects will be added
+- Contact form will be added
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
