@@ -22,20 +22,20 @@
 
   <section id="main">
     <div class="main">
-      <div class="main_container">
+      <div class="main__container">
         <h1>
           Hey there. <span class="span__br"><br /></span>I'm Sufian.
         </h1>
-        <span class="h1_sub">I'm a software developer</span>
+        <span class="h1__sub">I'm a software developer</span>
 
         <p>
           I can help you build a product, feature or website Look through some
-          of my work and <span class="span_br2"><br /></span> experience! If
+          of my work and <span class="span__br2"><br /></span> experience! If
           you like what you see and have a project you need coded,
-          <span class="span_br2"><br /></span>don’t hesitate to contact me.
+          <span class="span__br2"><br /></span>don’t hesitate to contact me.
         </p>
 
-        <div class="main_social-media">
+        <div class="main__social-media">
           <ul>
             <li>
               <a href="#">
@@ -65,7 +65,7 @@
           </ul>
         </div>
 
-        <div class="main_arrow-button">
+        <div class="main__arrow-button">
           <a href="#">
             <img src="./assets/icon/button_down.png" alt="A rounded button with a black down arrow" />
           </a>
@@ -246,5 +246,61 @@
       </div>
     </div>
   </section>
+  <section id="contact">
+    <div class="contact">
+      <div class="contact__container">
+        <h2>I'm always interested in hearing about new projects, 
+          so if you'd like to chat please get in touch.</h2>
+          <form action="https://formspree.io/f/xknaqawg" class="contact__form" method="POST">
+            <ul>
+              <li class="contact__form__element full-name">
+                <input type="text" id="full-name" name="full-name" placeholder="Full name" maxlength="30" required>
+              </li>
+              <li class="contact__form__element email">
+                <input type="email" id="email" name="email" placeholder="Email address" required>
+              </li>
+              <li class="contact__form__element message">
+                <textarea name="message" id="message" placeholder="Hey I’d like to connect to..." maxlength="500"></textarea>
+              </li>
+            </ul>
+            <button type="submit">Get in touch!</button>
+          </form>
+          <p class="contact__container__email">myemailhere@email.com</p>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <div class="footer">
+      <div class="main__social-media footer__social-media">
+        <ul>
+          <li>
+            <a href="#">
+              <img src="./assets/icon/twitter.png" alt="Twitter logo" />
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="./assets/icon/linkedin.png" alt="LinkedIn logo" />
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="./assets/icon/medium.png" alt="Medium logo" />
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="./assets/icon/github.png" alt="GitHub logo" />
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="./assets/icon/angellist.png" alt="AngelList logo" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </footer>
 </body>
 </html>
