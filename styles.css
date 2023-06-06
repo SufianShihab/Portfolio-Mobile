@@ -144,7 +144,7 @@ button a {
   background-color: var(--white-color);
 }
 
-.main_container {
+.main__container {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -161,7 +161,7 @@ button a {
   color: var(--dark-color);
 }
 
-.main .h1_sub {
+.main .h1__sub {
   width: 80%;
   font-style: normal;
   font-weight: 700;
@@ -184,17 +184,17 @@ p,
   color: var(--dark-color);
 }
 
-.span_br2 {
+.span__br2 {
   display: none;
 }
 
-.main_social-media {
+.main__social-media {
   width: 100%;
   display: flex;
   justify-content: center;
 }
 
-.main_social-media ul {
+.main__social-media ul {
   width: 50%;
   max-width: 230px;
   padding-left: 0;
@@ -206,14 +206,14 @@ p,
   list-style: none;
 }
 
-.main_arrow-button {
+.main__arrow-button {
   width: 40px;
   height: 40px;
   margin: 20% auto 5% auto;
   border-radius: 50%;
 }
 
-.main_arrow-button:hover {
+.main__arrow-button:hover {
   box-shadow: var(--button-hover-color) 0 0 0 0;
 }
 
